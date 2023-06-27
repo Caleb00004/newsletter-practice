@@ -94,6 +94,7 @@ html {
     padding: 0.5em 0.6em 0.5em 0.6em;
     border: 1px solid white;
     color: white;
+    margin-top: 0.5em;
     border-radius: 15px;
     transition: 0.3s;
 }
